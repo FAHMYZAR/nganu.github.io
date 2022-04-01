@@ -1,6 +1,5 @@
 <?php
 $ackdata = array("is_conect" => true,
-"user" => "ZeClayX",
-"pass" => "2021");
+"pass" => "RAEBCIPSEORPDONGT-efaskay");
 echo json_encode($ackdata);
 ?>
